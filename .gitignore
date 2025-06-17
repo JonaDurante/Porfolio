@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AppContext/bin/Debug/net8.0
+/AppContext/obj
+/AppRepository/bin/Debug/net8.0
+/AppRepository/obj
+/Models/bin/Debug/net8.0
+/Models/obj
+/Porfolio/bin/Debug/net8.0
+/Porfolio/obj
+/Porfolio/Data
